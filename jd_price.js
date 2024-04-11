@@ -1,7 +1,7 @@
 /*
 一键价保
 
-cron:55 2,19 * * * jd_prices.js
+cron:55 2,19 * * * jd_price.js
 
  */
 
