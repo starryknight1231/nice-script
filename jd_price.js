@@ -1,3 +1,10 @@
+/*
+一键价保
+
+cron:55 2,19 * * * jd_prices.js
+
+ */
+
 const $ = new Env('JD_PRICE')
 const jdCookie = require('./jd_cookie');
 const notify = require('./utils/Rebels_sendJDNotify');
