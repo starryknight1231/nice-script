@@ -24,9 +24,6 @@ if (process.env.JD_COOKIE) {
   }
 }
 
-// 测试使用，后续删除
-CookieJDs = ['pt_key=app_openAAJmFkDGADDqUtZBmAFsVUoCgB285tVPEyasDZlbjhv4EguzR2-JiWhC6OH3ZBMbBOyVXkEl8H8;pt_pin=pxy969379020;']
-
 if (JSON.stringify(process.env).indexOf('GITHUB')>-1) {
   console.log(`请勿使用github action运行此脚本,无论你是从你自己的私库还是其他哪里拉取的源代码，都会导致我被封号\n`);
   !(async () => {

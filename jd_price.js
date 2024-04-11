@@ -1,12 +1,9 @@
 /*
-脚本名称：一键价保
-
 cron:55 2,19 * * * jd_price.js
-
  */
 
 const $ = new Env('京东价保')
-const jdCookie = require('./jd_cookie');
+const jdCookie = require('./jdCookie');
 const notify = require('./utils/Rebels_sendJDNotify');
 const common = require('./utils/Rebels_jdCommon');
 const { H5st} = require('./utils/Rebels_H');
