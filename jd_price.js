@@ -5,7 +5,7 @@ cron:55 2,19 * * * jd_price.js
 
  */
 
-const $ = new Env('JD_PRICE')
+const $ = new Env('京东价保')
 const jdCookie = require('./jd_cookie');
 const notify = require('./utils/Rebels_sendJDNotify');
 const common = require('./utils/Rebels_jdCommon');
