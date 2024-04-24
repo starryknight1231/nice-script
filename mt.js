@@ -28,11 +28,11 @@ $.is_debug = $.getdata('is_debug') || 'false';
 
 $.lat = $.getdata('MT_LAT') || '19.940231';
 $.lng = $.getdata('MT_LNG') || '110.477477';
-$.mtshopsUrl =  $.getdata('MT_SHOPS_URL') || '保亭黎族苗族自治县';
+$.mtshopsUrl =  $.getdata('MT_SHOPS_URL') || '海口市';
 
 
 $.provinceName = $.getdata('MT_PROVINCE_NAME') || '海南省';
-$.cityName = $.getdata('MT_CITY_NAME') || '保亭黎族苗族自治县';
+$.cityName = $.getdata('MT_CITY_NAME') || '海口市';
 
 
 

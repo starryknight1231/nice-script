@@ -642,19 +642,19 @@ class Common {
 		}));
 	}
 	async post(options) {
-		return await thisrequest(Object.assign({},
+		return await this.request(Object.assign({},
 			options, {
 			'method':  'post'
 		}));
 	}
 	async put (options) {
-		return await thisrequest(Object.assign({},
+		return await this.request(Object.assign({},
 			options, {
 			'method':  'put'
 		}));
 	}
 	async delete(options) {
-		return await thisrequest(Object.assign({},
+		return await this.request(Object.assign({},
 			options, {
 			'method':  'delete'
 		}));

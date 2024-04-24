@@ -992,9 +992,8 @@ function wuxianDefense() {
 }
 async function jsTk(I11111, l111, il11lI = {},
 lIll1I = {}) {
-	const ii1Ill = I1i1iI,
-	li1II1 = {
-		'WsZIk': ii1Ill(0x37c, 'o$yZ'),
+	const li1II1 = {
+		'WsZIk': I1i1iI(0x37c, 'o$yZ'),
 		'gDTon': function(l1IIII, IIillI) {
 			return l1IIII | IIillI;
 		},
@@ -1007,7 +1006,7 @@ lIll1I = {}) {
 		'DhUWB': function(Iiii1l, IiliIi) {
 			return Iiii1l + IiliIi;
 		},
-		'IjxSI': ii1Ill(0x24b, 'FiKh'),
+		'IjxSI': I1i1iI(0x24b, 'FiKh'),
 		'cSKKU': function(Iiii1i, iiIlll) {
 			return Iiii1i(iiIlll);
 		},
@@ -1020,15 +1019,15 @@ lIll1I = {}) {
 		'xxWan': function(lIll1i, iiIlli) {
 			return lIll1i >> iiIlli;
 		},
-		'YfdnS': ii1Ill(0x120, '!9q8'),
+		'YfdnS': I1i1iI(0x120, '!9q8'),
 		'CdYSh': function(iII1, Ii11i1) {
 			return iII1(Ii11i1);
 		},
 		'tOFkg': function(lIll1l, Il1lIl) {
 			return lIll1l === Il1lIl;
 		},
-		'UCSXR': ii1Ill(0x3dd, '*0Nu'),
-		'CRtLR': ii1Ill(0x149, '&!Er'),
+		'UCSXR': I1i1iI(0x3dd, '*0Nu'),
+		'CRtLR': I1i1iI(0x149, '&!Er'),
 		'ucJdK': function(I1111I, I1I11) {
 			return I1111I < I1I11;
 		},
@@ -1053,15 +1052,15 @@ lIll1I = {}) {
 		'nkTBW': function(llllii, l11l) {
 			return llllii !== l11l;
 		},
-		'tbNiI': ii1Ill(0x341, 'vMlH'),
+		'tbNiI': I1i1iI(0x341, 'vMlH'),
 		'QtjAy': function(illiII, li1IIl, llllil) {
 			return illiII(li1IIl, llllil);
 		},
 		'tlBbM': function(II1ill, ilili) {
 			return II1ill >>> ilili;
 		},
-		'bHrQA': ii1Ill(0x221, '4$Ke'),
-		'cxHOY': ii1Ill(0x206, 'Nm)H'),
+		'bHrQA': I1i1iI(0x221, '4$Ke'),
+		'cxHOY': I1i1iI(0x206, 'Nm)H'),
 		'RVKIj': function(iII1iI, II1ili) {
 			return iII1iI || II1ili;
 		},
@@ -1242,7 +1241,7 @@ lIll1I = {}) {
 		'WSfcP': function(iIIll, IIi1I) {
 			return iIIll >>> IIi1I;
 		},
-		'pAyPM': ii1Ill(0x166, '46J&'),
+		'pAyPM': I1i1iI(0x166, '46J&'),
 		'NtKny': function(liIiII, il1) {
 			return liIiII + il1;
 		},
@@ -1270,7 +1269,7 @@ lIll1I = {}) {
 		'LHpAE': function(il11i1, iII1i1) {
 			return il11i1 === iII1i1;
 		},
-		'qfMDE': ii1Ill(0x171, 'UjBD'),
+		'qfMDE': I1i1iI(0x171, 'UjBD'),
 		'xEFda': function(l11II, ili) {
 			return l11II ^ ili;
 		},
@@ -1286,64 +1285,64 @@ lIll1I = {}) {
 		'pPlPo': function(iiiIi, ilii11, iiiIl) {
 			return iiiIi(ilii11, iiiIl);
 		},
-		'ENuVo': ii1Ill(0x152, '46J&'),
+		'ENuVo': I1i1iI(0x152, '46J&'),
 		'XzGTL': function(iiIliI) {
 			return iiIliI();
 		},
-		'rDdBy': ii1Ill(0x285, 'SPmY'),
-		'lpWGz': ii1Ill(0x2b7, 'Nm)H'),
-		'avydX': ii1Ill(0xf3, '4jt0'),
-		'oQGbE': ii1Ill(0x11b, '46J&'),
-		'NZSds': ii1Ill(0x44f, 'M5IT'),
-		'achbj': ii1Ill(0xcc, '4jt0'),
+		'rDdBy': I1i1iI(0x285, 'SPmY'),
+		'lpWGz': I1i1iI(0x2b7, 'Nm)H'),
+		'avydX': I1i1iI(0xf3, '4jt0'),
+		'oQGbE': I1i1iI(0x11b, '46J&'),
+		'NZSds': I1i1iI(0x44f, 'M5IT'),
+		'achbj': I1i1iI(0xcc, '4jt0'),
 		'ZQgFY': 'jd-babelh5',
-		'SNhuC': ii1Ill(0x427, ')TpP'),
+		'SNhuC': I1i1iI(0x427, ')TpP'),
 		'DnggK': function(liIiIl, lII11) {
 			return liIiIl(lII11);
 		},
-		'KnmpQ': ii1Ill(0x1e1, 'rgzG'),
+		'KnmpQ': I1i1iI(0x1e1, 'rgzG'),
 		'SMRpF': 'Chalkduster',
-		'qZZZY': ii1Ill(0x2ba, 'gWJq'),
-		'eGRRG': ii1Ill(0x44b, 'ZkV3'),
-		'iNUbl': ii1Ill(0x191, 'M5IT'),
-		'hQlzt': ii1Ill(0x12b, 'rgzG'),
-		'oFhub': ii1Ill(0x487, 'gWJq'),
-		'GYGyv': ii1Ill(0x2f3, 'xD3t'),
+		'qZZZY': I1i1iI(0x2ba, 'gWJq'),
+		'eGRRG': I1i1iI(0x44b, 'ZkV3'),
+		'iNUbl': I1i1iI(0x191, 'M5IT'),
+		'hQlzt': I1i1iI(0x12b, 'rgzG'),
+		'oFhub': I1i1iI(0x487, 'gWJq'),
+		'GYGyv': I1i1iI(0x2f3, 'xD3t'),
 		'dKlVL': 'hardwareConcurrency',
-		'HvMGh': ii1Ill(0x33d, 'Rwqa'),
+		'HvMGh': I1i1iI(0x33d, 'Rwqa'),
 		'aNYus': 'audioSession',
-		'KvkSg': ii1Ill(0x1c4, 'M4*%'),
-		'UuNpO': ii1Ill(0x16f, '46J&'),
+		'KvkSg': I1i1iI(0x1c4, 'M4*%'),
+		'UuNpO': I1i1iI(0x16f, '46J&'),
 		'jjaEM': 'permissions',
-		'qOJoX': ii1Ill(0x3d7, 'kOhl'),
+		'qOJoX': I1i1iI(0x3d7, 'kOhl'),
 		'kdUPK': 'maxTouchPoints',
-		'UlISQ': ii1Ill(0x1c8, 'vMlH'),
+		'UlISQ': I1i1iI(0x1c8, 'vMlH'),
 		'AnJzd': 'appCodeName',
 		'YRcwi': 'appName',
-		'DHFZO': ii1Ill(0x209, '&!Er'),
+		'DHFZO': I1i1iI(0x209, '&!Er'),
 		'YWImv': 'product',
 		'ofPfV': 'userAgent',
-		'LRCWh': ii1Ill(0x475, 'FiKh'),
+		'LRCWh': I1i1iI(0x475, 'FiKh'),
 		'MEFDG': 'vendorSub',
-		'NtAnl': ii1Ill(0x252, '&Fr&'),
+		'NtAnl': I1i1iI(0x252, '&Fr&'),
 		'asgZW': 'plugins',
 		'OEJxQ': 'pdfViewerEnabled',
-		'RUWeM': ii1Ill(0x312, '4$Ke'),
+		'RUWeM': I1i1iI(0x312, '4$Ke'),
 		'Haypb': 'requestMediaKeySystemAccess',
-		'WPikx': ii1Ill(0x183, 'SPmY'),
+		'WPikx': I1i1iI(0x183, 'SPmY'),
 		'bGyjI': 'share',
-		'JwjpJ': ii1Ill(0x3bf, 'Nm)H'),
-		'KkIoO': ii1Ill(0x3a4, 'jvKw'),
-		'zoTfP': ii1Ill(0x212, 'TJOK'),
+		'JwjpJ': I1i1iI(0x3bf, 'Nm)H'),
+		'KkIoO': I1i1iI(0x3a4, 'jvKw'),
+		'zoTfP': I1i1iI(0x212, 'TJOK'),
 		'ywLhl': 'rgb(239,\x20239,\x20239)',
 		'HHjAf': 'rgb(128,\x20128,\x20128)',
-		'MSgbu': ii1Ill(0x19d, '39VD'),
-		'LJNOg': ii1Ill(0x3d3, 'eKqD'),
+		'MSgbu': I1i1iI(0x19d, '39VD'),
+		'LJNOg': I1i1iI(0x3d3, 'eKqD'),
 		'qPClX': 'application/x-www-form-urlencoded;charset=UTF-8',
-		'qErCp': ii1Ill(0x3f3, 'jvKw'),
-		'KOaHA': ii1Ill(0x33a, '46J&'),
+		'qErCp': I1i1iI(0x3f3, 'jvKw'),
+		'KOaHA': I1i1iI(0x33a, '46J&'),
 		'jjdpE': 'empty',
-		'VyQjO': ii1Ill(0x411, '*0Nu'),
+		'VyQjO': I1i1iI(0x411, '*0Nu'),
 		'IOarc': function(illiI1, iIll1i) {
 			return illiI1 !== iIll1i;
 		},
@@ -1351,17 +1350,17 @@ lIll1I = {}) {
 		'KnlZl': function(iIll1l, iIIii) {
 			return iIll1l >= iIIii;
 		},
-		'APNgA': ii1Ill(0x446, 'xD3t')
+		'APNgA': I1i1iI(0x446, 'xD3t')
 	};
 	let iiIllI = {
 		'eid': '',
 		'jsToken': '',
 		'fp': ''
 	};
+	debugger;
 	function iII1l1(ilIl1l) {
-		const iiIl1 = ii1Ill;
-		if (li1II1[iiIl1(0x100, '39VD')] !== li1II1[iiIl1(0x1f4, 'eJjH')]) {
-			const IIilli = li1II1[iiIl1(0x328, '$meb')][iiIl1(0x3fb, '39VD')]('|');
+		if (li1II1[I1i1iI(0x100, '39VD')] !== li1II1[I1i1iI(0x1f4, 'eJjH')]) {
+			const IIilli = li1II1[I1i1iI(0x328, '$meb')][I1i1iI(0x3fb, '39VD')]('|');
 			let l1III1 = 0x0;
 			while ( !! []) {
 				switch (IIilli[l1III1++]) {
@@ -1369,25 +1368,25 @@ lIll1I = {}) {
 					lII1I = li1II1['gDTon']((lII1I & 0x3) << 0x4, li1II1['JkoHx'](il11il, 0x4));
 					continue;
 				case '1':
-					var lII1I = IilIii[iiIl1(0x2a1, 'kOhl')](iI1lil++);
+					var lII1I = IilIii[I1i1iI(0x2a1, 'kOhl')](iI1lil++);
 					continue;
 				case '2':
-					var iiiII = li1II1[iiIl1(0x10c, '1zB4')](lII1I, 0x2);
+					var iiiII = li1II1[I1i1iI(0x10c, '1zB4')](lII1I, 0x2);
 					continue;
 				case '3':
 					var iiIlil = i1i1II['charCodeAt'](liiIIl++);
 					continue;
 				case '4':
-					il1i1I = li1II1[iiIl1(0x401, '!#4L')](li1II1['DhUWB'](lI1li1 + li1II1[iiIl1(0x35e, '!#4L')][iiIl1(0xc5, 'FiKh')](iiiII) + li1II1[iiIl1(0x336, 'o$yZ')][iiIl1(0x13d, 'v)[c')](lII1I), li1II1[iiIl1(0x2d5, 'Rwqa')]['charAt'](iiIlii)), li1II1[iiIl1(0x34b, 'jvKw')][iiIl1(0x1d5, '&!Er')](II1I11));
+					il1i1I = li1II1[I1i1iI(0x401, '!#4L')](li1II1['DhUWB'](lI1li1 + li1II1[I1i1iI(0x35e, '!#4L')][I1i1iI(0xc5, 'FiKh')](iiiII) + li1II1[I1i1iI(0x336, 'o$yZ')][I1i1iI(0x13d, 'v)[c')](lII1I), li1II1[I1i1iI(0x2d5, 'Rwqa')]['charAt'](iiIlii)), li1II1[I1i1iI(0x34b, 'jvKw')][I1i1iI(0x1d5, '&!Er')](II1I11));
 					continue;
 				case '5':
-					li1II1[iiIl1(0x19e, '&!Er')](iil1iI, il11il) ? iiIlii = II1I11 = 0x40: li1II1[iiIl1(0x25c, '39VD')](IlIllI, iiIlil) && (II1I11 = 0x40);
+					li1II1[I1i1iI(0x19e, '&!Er')](iil1iI, il11il) ? iiIlii = II1I11 = 0x40: li1II1[I1i1iI(0x25c, '39VD')](IlIllI, iiIlil) && (II1I11 = 0x40);
 					continue;
 				case '6':
-					var il11il = l1lIi1[iiIl1(0x16a, '*0Nu')](iIli1l++);
+					var il11il = l1lIi1[I1i1iI(0x16a, '*0Nu')](iIli1l++);
 					continue;
 				case '7':
-					var iiIlii = li1II1['OAUtM'](il11il, 0xf) << 0x2 | li1II1[iiIl1(0x1d1, 'ZkV3')](iiIlil, 0x6);
+					var iiIlii = li1II1['OAUtM'](il11il, 0xf) << 0x2 | li1II1[I1i1iI(0x1d1, 'ZkV3')](iiIlil, 0x6);
 					continue;
 				case '8':
 					var II1I11 = iiIlil & 0x3f;
@@ -1397,12 +1396,12 @@ lIll1I = {}) {
 			}
 		} else {
 			ilIl1l = JSON['stringify'](ilIl1l),
-			ilIl1l = li1II1[iiIl1(0x22a, '4$Ke')](encodeURIComponent, ilIl1l);
+			ilIl1l = li1II1[I1i1iI(0x22a, '4$Ke')](encodeURIComponent, ilIl1l);
 			var Ii1l1 = '',
 			Il1IlI = 0x0;
 			do {
-				if (li1II1[iiIl1(0x40b, 'ZkV3')](li1II1[iiIl1(0x1c7, '39VD')], li1II1[iiIl1(0x2a5, 'XvTn')])) {
-					const il11ii = li1II1[iiIl1(0x3ec, 'v)[c')][iiIl1(0x316, 'SPmY')]('|');
+				if (li1II1[I1i1iI(0x40b, 'ZkV3')](li1II1[I1i1iI(0x1c7, '39VD')], li1II1[I1i1iI(0x2a5, 'XvTn')])) {
+					const il11ii = li1II1[I1i1iI(0x3ec, 'v)[c')][I1i1iI(0x316, 'SPmY')]('|');
 					let Il1Il1 = 0x0;
 					while ( !! []) {
 						switch (il11ii[Il1Il1++]) {
@@ -1410,19 +1409,19 @@ lIll1I = {}) {
 							var l11Ii = iIIil >> 0x2;
 							continue;
 						case '1':
-							var iIll11 = li1II1[iiIl1(0x1a9, 'sa@g')]((IIilll & 0xf) << 0x2, lli1Il >> 0x6);
+							var iIll11 = li1II1[I1i1iI(0x1a9, 'sa@g')]((IIilll & 0xf) << 0x2, lli1Il >> 0x6);
 							continue;
 						case '2':
-							var IIilll = ilIl1l[iiIl1(0x1e6, 'v)[c')](Il1IlI++);
+							var IIilll = ilIl1l[I1i1iI(0x1e6, 'v)[c')](Il1IlI++);
 							continue;
 						case '3':
-							var iIIil = ilIl1l[iiIl1(0x1bd, 'PYui')](Il1IlI++);
+							var iIIil = ilIl1l[I1i1iI(0x1bd, 'PYui')](Il1IlI++);
 							continue;
 						case '4':
-							iIIil = li1II1[iiIl1(0x112, '46J&')]((iIIil & 0x3) << 0x4, li1II1[iiIl1(0xf0, 'aLRY')](IIilll, 0x4));
+							iIIil = li1II1[I1i1iI(0x112, '46J&')]((iIIil & 0x3) << 0x4, li1II1[I1i1iI(0xf0, 'aLRY')](IIilll, 0x4));
 							continue;
 						case '5':
-							Ii1l1 = li1II1[iiIl1(0x130, 'TJOK')](Ii1l1 + li1II1['IjxSI'][iiIl1(0x3d1, ')Lq4')](l11Ii) + li1II1[iiIl1(0x2fd, 'NtzQ')][iiIl1(0xc5, 'FiKh')](iIIil) + li1II1['IjxSI']['charAt'](iIll11), iiIl1(0x292, 'vMlH')[iiIl1(0x11d, 'f9dA')](lli1Ii));
+							Ii1l1 = li1II1[I1i1iI(0x130, 'TJOK')](Ii1l1 + li1II1['IjxSI'][I1i1iI(0x3d1, ')Lq4')](l11Ii) + li1II1[I1i1iI(0x2fd, 'NtzQ')][I1i1iI(0xc5, 'FiKh')](iIIil) + li1II1['IjxSI']['charAt'](iIll11), I1i1iI(0x292, 'vMlH')[I1i1iI(0x11d, 'f9dA')](lli1Ii));
 							continue;
 						case '6':
 							var lli1Ii = lli1Il & 0x3f;
@@ -1431,19 +1430,18 @@ lIll1I = {}) {
 							isNaN(IIilll) ? iIll11 = lli1Ii = 0x40: isNaN(lli1Il) && (lli1Ii = 0x40);
 							continue;
 						case '8':
-							var lli1Il = ilIl1l[iiIl1(0x230, '@ttb')](Il1IlI++);
+							var lli1Il = ilIl1l[I1i1iI(0x230, '@ttb')](Il1IlI++);
 							continue;
 						}
 						break;
 					}
-				} else IIiiI1['log']('❌\x20getH5st\x20遇到了错误\x20' + (IIIIi1[iiIl1(0x482, 'gP5M')] || ii1IIl));
+				} else IIiiI1['log']('❌\x20getH5st\x20遇到了错误\x20' + (IIIIi1[I1i1iI(0x482, 'gP5M')] || ii1IIl));
 			} while ( li1II1 ['ucJdK'](Il1IlI, ilIl1l['length']));
 			return Ii1l1 + '/';
 		}
 	}
 	function I1I1I() {
-		const iiIil = ii1Ill,
-		iIIiI = {
+		const iIIiI = {
 			'FoxfO': function(Il1Ill, Ii1il) {
 				return li1II1['ElnRB'](Il1Ill, Ii1il);
 			},
@@ -1458,7 +1456,7 @@ lIll1I = {}) {
 			},
 			'UQuGA': function(i11lll, il11iI) {
 				const lIlI1l = iii1II;
-				return li1II1[lIlI1l(0x246, 'xD3t')](i11lll, il11iI);
+				return li1II1[iii1II(0x246, 'xD3t')](i11lll, il11iI);
 			},
 			'RpJSJ': function(i11lli, iiIll1) {
 				return i11lli << iiIll1;
@@ -1468,14 +1466,14 @@ lIll1I = {}) {
 			},
 			'OERdQ': function(IIIi1l, l1i1ll) {
 				const ii1Ili = iii1II;
-				return li1II1[ii1Ili(0x407, ')Lq4')](IIIi1l, l1i1ll);
+				return li1II1[iii1II(0x407, ')Lq4')](IIIi1l, l1i1ll);
 			},
 			'cTBEd': function(l1i1li, IlIl1l) {
 				return l1i1li * IlIl1l;
 			},
 			'RZapB': function(Ili1I, I1IiII) {
 				const liI1l = iii1II;
-				return li1II1[liI1l(0x35f, 'SPmY')](Ili1I, I1IiII);
+				return li1II1[iii1II(0x35f, 'SPmY')](Ili1I, I1IiII);
 			},
 			'vgXiE': function(Ili11, iiIiI) {
 				return li1II1['xljtW'](Ili11, iiIiI);
@@ -1485,7 +1483,7 @@ lIll1I = {}) {
 			},
 			'WwkFm': function(iIIiI1, IIIi1I) {
 				const liI1i = iii1II;
-				return li1II1[liI1i(0x2e4, 'SPmY')](iIIiI1, IIIi1I);
+				return li1II1[iii1II(0x2e4, 'SPmY')](iIIiI1, IIIi1I);
 			},
 			'GkOZs': function(l1i1lI, I11) {
 				return l1i1lI + I11;
@@ -1501,26 +1499,26 @@ lIll1I = {}) {
 			},
 			'DzWGC': function(iIIiII, IIi1i1) {
 				const I1Ii1I = iii1II;
-				return li1II1[I1Ii1I(0xe2, 'PYui')](iIIiII, IIi1i1);
+				return li1II1[iii1II(0xe2, 'PYui')](iIIiII, IIi1i1);
 			},
 			'ZtBmo': function(I1IiI1, IlIl1i) {
 				const llIIl = iii1II;
-				return li1II1[llIIl(0x479, 'xD3t')](I1IiI1, IlIl1i);
+				return li1II1[iii1II(0x479, 'xD3t')](I1IiI1, IlIl1i);
 			},
 			'hzBuJ': function(IIIi11, I1I) {
 				const llIIi = iii1II;
-				return li1II1[llIIi(0x2a0, '46J&')](IIIi11, I1I);
+				return li1II1[iii1II(0x2a0, '46J&')](IIIi11, I1I);
 			},
 			'EVkdK': function(liIi1I, il1ill) {
 				const IiI1Il = iii1II;
-				return li1II1[IiI1Il(0x3eb, 'eKqD')](liIi1I, il1ill);
+				return li1II1[iii1II(0x3eb, 'eKqD')](liIi1I, il1ill);
 			},
 			'fjeEN': function(il1ili, lI1i1) {
 				return il1ili << lI1i1;
 			},
 			'vHfvk': function(lII11i, I1li1) {
 				const iiIii = iii1II;
-				return li1II1[iiIii(0x1a1, 'o$yZ')](lII11i, I1li1);
+				return li1II1[iii1II(0x1a1, 'o$yZ')](lII11i, I1li1);
 			},
 			'aZdbF': function(Il11i1, ill1lI) {
 				return Il11i1 << ill1lI;
@@ -1532,13 +1530,13 @@ lIll1I = {}) {
 				const IiI1Ii = iii1II;
 				return li1II1[IiI1Ii(0x244, '&Fr&')](i1iIl, i1iIi);
 			},
-			'ihGeS': li1II1[iiIil(0x1c0, 'Nm)H')],
+			'ihGeS': li1II1[I1i1iI(0x1c0, 'Nm)H')],
 			'sDkuJ': function(I1i, lll1i) {
 				return li1II1['DYPip'](I1i, lll1i);
 			},
 			'ebBDn': function(lll1l, I1l) {
-				const IilI11 = iiIil;
-				return li1II1[IilI11(0x1c1, ']9@]')](lll1l, I1l);
+				const IilI11 = I1i1iI;
+				return li1II1[I1i1iI(0x1c1, ']9@]')](lll1l, I1l);
 			},
 			'gAjaz': function(lI1iI) {
 				return lI1iI();
@@ -1553,251 +1551,262 @@ lIll1I = {}) {
 				return lII11I % ii111I;
 			}
 		};
-		if (li1II1[iiIil(0xd2, 'FiKh')]('OrWmv', 'OrWmv')) return li1II1['USCJb'](0x0, il1iIl %= 0x40) ? iii1ii: li1II1[iiIil(0x223, ']9@]')](il1iIi, 0x20) ? [li1II1[iiIil(0x466, 'PYui')](iii1il[0x0], II11li) | li1II1[iiIil(0x1ed, 'UjBD')](I1l11i[0x1], li1II1['sjZqj'](0x20, iIIiiI)), li1II1[iiIil(0x11e, 'UjBD')](liiI1i[0x1], ililIi)] : [lilIIl[0x1] << ililIl - 0x20, 0x0];
-		else {
-			function ill1li(ill1ll, Il11iI) {
-				const llili = iiIil;
-				ill1ll = [iIIiI['FoxfO'](ill1ll[0x0], 0x10), iIIiI[llili(0xd9, 'gP5M')](0xffff, ill1ll[0x0]), iIIiI[llili(0x17a, 'v)[c')](ill1ll[0x1], 0x10), iIIiI[llili(0x3af, 'NtzQ')](0xffff, ill1ll[0x1])],
-				Il11iI = [Il11iI[0x0] >>> 0x10, 0xffff & Il11iI[0x0], Il11iI[0x1] >>> 0x10, 0xffff & Il11iI[0x1]];
-				var ililil = [0x0, 0x0, 0x0, 0x0];
-				return ililil[0x3] += iIIiI[llili(0x185, 'o$yZ')](ill1ll[0x3], Il11iI[0x3]),
-				ililil[0x2] += iIIiI[llili(0x1a0, '4$Ke')](ililil[0x3], 0x10),
-				ililil[0x3] &= 0xffff,
-				ililil[0x2] += iIIiI[llili(0x40f, ']M$5')](ill1ll[0x2], Il11iI[0x2]),
-				ililil[0x1] += iIIiI[llili(0x210, 'Nm)H')](ililil[0x2], 0x10),
-				ililil[0x2] &= 0xffff,
-				ililil[0x1] += ill1ll[0x1] + Il11iI[0x1],
-				ililil[0x0] += iIIiI['FoxfO'](ililil[0x1], 0x10),
-				ililil[0x1] &= 0xffff,
-				ililil[0x0] += ill1ll[0x0] + Il11iI[0x0],
-				ililil[0x0] &= 0xffff,
-				[iIIiI[llili(0x309, ']M$5')](ililil[0x0], 0x10) | ililil[0x1], iIIiI[llili(0x40c, '46J&')](ililil[0x2], 0x10) | ililil[0x3]];
+		function ill1li(ill1ll, Il11iI) {
+			ill1ll = [ill1ll[0] >>> 16, 65535 & ill1ll[0], ill1ll[1] >>> 16, 65535 & ill1ll[1]],
+			Il11iI = [Il11iI[0] >>> 16, 65535 & Il11iI[0], Il11iI[1] >>> 16, 65535 & Il11iI[1]];
+			var ililil = [0, 0, 0, 0];
+			ililil[3] += (ill1ll[3] + Il11iI[3]);
+			ililil[2] += (ililil[3] >>> 16);
+			ililil[3] &= 65535;
+			ililil[2] += (ill1ll[2] + Il11iI[2]);
+			ililil[1] += (ililil[2] >>> 16);
+			ililil[2] &= 65535;
+			ililil[1] += ill1ll[1] + Il11iI[1];
+			ililil[0] += (ililil[1] >>> 16);
+			ililil[1] &= 65535;
+			ililil[0] += ill1ll[0] + Il11iI[0];
+			ililil[0] &= 65535;
+			return [(ililil[0] << 16) | ililil[1], (ililil[2] << 16) | ililil[3]];
+		}
+		function ililii(IlIIIl, lI1il) {
+			IlIIIl = [IlIIIl[0] > 16, 65535 & IlIIIl[0], IlIIIl[1] >>> 16, 65535 & IlIIIl[1]],
+			lI1il = [lI1il[0] >>> 16, 65535 & lI1il[0], lI1il[1] >>> 16, 65535 & lI1il[1]];
+			var llilI1 = [0, 0, 0, 0];
+			llilI1[3] += (IlIIIl[3] * lI1il[3]);
+			llilI1[2] += (llilI1[3] >>> 16);
+			llilI1[3] &= 65535;
+			llilI1[2] += IlIIIl[2] * lI1il[3];
+			llilI1[1] += (llilI1[2] >>> 16);
+			llilI1[2] &= 65535;
+			llilI1[2] += (IlIIIl[2] * lI1il[2]);
+			llilI1[1] += llilI1[2] >>> 16;
+			llilI1[2] &= 65535;
+			llilI1[1] += (IlIIIl[1] * lI1il[3]);
+			llilI1[0] += (llilI1[1] >>> 16);
+			llilI1[1] &= 65535;
+			llilI1[1] += (IlIIIl[2] * lI1il[2]);
+			llilI1[0] += llilI1[1] >>> 16;
+			llilI1[1] &= 65535;
+			llilI1[1] += (IlIIIl[3] * lI1il[1]);
+			llilI1[0] += (llilI1[1] >>> 16);
+			llilI1[1] &= 65535;
+			llilI1[0] += IlIIIl[0] * lI1il[3] + IlIIIl[1] * lI1il[2] + IlIIIl[2] * lI1il[1] + IlIIIl[3] * lI1il[0];
+			llilI1[0] &= 65535;
+			return [(llilI1[0] << 16 | llilI1[1]), (llilI1[2] << 16 | llilI1[3])];
+		}
+		function il1il1(IlIIIi, lI1ii) {
+			if(32 === (lI1ii %= 64)){
+				return [IlIIIi[1], IlIIIi[0]];
+			}else if(lI1ii < 32){
+				return [IlIIIi[0] << lI1ii | IlIIIi[1] >>> (32 - lI1ii), (IlIIIi[1] << lI1ii) | (IlIIIi[0] >>> (32 - lI1ii))];
+			}else{
+				return  [(IlIIIi[1] << (lI1ii -= 32) | IlIIIi[0] >>> (32 - lI1ii)), (IlIIIi[0] << lI1ii) | IlIIIi[1] >>> (32 - lI1ii)];
 			}
-			function ililii(IlIIIl, lI1il) {
-				const iiII1 = iiIil;
-				IlIIIl = [iIIiI[iiII1(0x15a, '&Fr&')](IlIIIl[0x0], 0x10), 0xffff & IlIIIl[0x0], iIIiI['OERdQ'](IlIIIl[0x1], 0x10), iIIiI[iiII1(0x266, '@ttb')](0xffff, IlIIIl[0x1])],
-				lI1il = [lI1il[0x0] >>> 0x10, iIIiI[iiII1(0x322, 'FiKh')](0xffff, lI1il[0x0]), lI1il[0x1] >>> 0x10, iIIiI[iiII1(0x153, '!#4L')](0xffff, lI1il[0x1])];
-				var llilI1 = [0x0, 0x0, 0x0, 0x0];
-				return llilI1[0x3] += iIIiI['cTBEd'](IlIIIl[0x3], lI1il[0x3]),
-				llilI1[0x2] += iIIiI[iiII1(0x219, 'ZkV3')](llilI1[0x3], 0x10),
-				llilI1[0x3] &= 0xffff,
-				llilI1[0x2] += IlIIIl[0x2] * lI1il[0x3],
-				llilI1[0x1] += iIIiI[iiII1(0x306, 'wfkb')](llilI1[0x2], 0x10),
-				llilI1[0x2] &= 0xffff,
-				llilI1[0x2] += iIIiI[iiII1(0x1bb, 'o$yZ')](IlIIIl[0x3], lI1il[0x2]),
-				llilI1[0x1] += llilI1[0x2] >>> 0x10,
-				llilI1[0x2] &= 0xffff,
-				llilI1[0x1] += iIIiI[iiII1(0x123, 'gWJq')](IlIIIl[0x1], lI1il[0x3]),
-				llilI1[0x0] += iIIiI[iiII1(0x163, 'wfkb')](llilI1[0x1], 0x10),
-				llilI1[0x1] &= 0xffff,
-				llilI1[0x1] += iIIiI[iiII1(0xcd, 'M5IT')](IlIIIl[0x2], lI1il[0x2]),
-				llilI1[0x0] += llilI1[0x1] >>> 0x10,
-				llilI1[0x1] &= 0xffff,
-				llilI1[0x1] += iIIiI[iiII1(0xe7, 'iow6')](IlIIIl[0x3], lI1il[0x1]),
-				llilI1[0x0] += iIIiI[iiII1(0x2e8, '5xt%')](llilI1[0x1], 0x10),
-				llilI1[0x1] &= 0xffff,
-				llilI1[0x0] += iIIiI[iiII1(0x28b, 'eJjH')](iIIiI[iiII1(0x1f1, 'Nm)H')](iIIiI['HKkWL'](IlIIIl[0x0], lI1il[0x3]), iIIiI[iiII1(0x228, 'xD3t')](IlIIIl[0x1], lI1il[0x2])), iIIiI['RZapB'](IlIIIl[0x2], lI1il[0x1])) + IlIIIl[0x3] * lI1il[0x0],
-				llilI1[0x0] &= 0xffff,
-				[iIIiI[iiII1(0x43e, 'XvTn')](iIIiI[iiII1(0xc9, 'jvKw')](llilI1[0x0], 0x10), llilI1[0x1]), iIIiI[iiII1(0x118, ')TpP')](iIIiI[iiII1(0x472, 'ZkV3')](llilI1[0x2], 0x10), llilI1[0x3])];
-			}
-			function il1il1(IlIIIi, lI1ii) {
-				const l1111I = iiIil;
-				return 0x20 === (lI1ii %= 0x40) ? [IlIIIi[0x1], IlIIIi[0x0]] : iIIiI[l1111I(0x3f2, 'TJOK')](lI1ii, 0x20) ? [iIIiI['LngNM'](IlIIIi[0x0] << lI1ii, IlIIIi[0x1] >>> iIIiI['EVkdK'](0x20, lI1ii)), iIIiI[l1111I(0x1e5, 'sa@g')](IlIIIi[0x1], lI1ii) | iIIiI[l1111I(0x13a, 'xD3t')](IlIIIi[0x0], iIIiI['EVkdK'](0x20, lI1ii))] : [iIIiI['LngNM'](iIIiI[l1111I(0x10d, 'M5IT')](IlIIIi[0x1], lI1ii -= 0x20), iIIiI[l1111I(0x3a3, 'gWJq')](IlIIIi[0x0], 0x20 - lI1ii)), iIIiI['dQZiz'](IlIIIi[0x0], lI1ii) | IlIIIi[0x1] >>> iIIiI['EVkdK'](0x20, lI1ii)];
-			}
+
+		}
 			function iilIl(lii1i1, lIIIiI) {
-				const llill = iiIil;
-				return iIIiI['cMGkA'](iIIiI['ihGeS'], iIIiI['ihGeS']) ? 0x0 === (lIIIiI %= 0x40) ? lii1i1: lIIIiI < 0x20 ? [iIIiI[llill(0x26f, '*0Nu')](lii1i1[0x0], lIIIiI) | iIIiI[llill(0x3c5, 'NtzQ')](lii1i1[0x1], iIIiI[llill(0x42f, '@ttb')](0x20, lIIIiI)), iIIiI[llill(0x150, ']M$5')](lii1i1[0x1], lIIIiI)] : [lii1i1[0x1] << lIIIiI - 0x20, 0x0] : new llii11((ii111i, iilII) =>{
-					llliII(() =>{
-						ii111i(liIliI);
-					},
-					IlI1l1);
-				});
+				if(0 === (lIIIiI %= 64)){
+					return lii1i1;
+				}
+
+				if(lIIIiI < 32){
+					return [(lii1i1[0] << lIIIiI) | (lii1i1[1] >>> (32 - lIIIiI)), (lii1i1[1] << lIIIiI)];
+				}
+				return [lii1i1[1] << lIIIiI - 32, 0]
 			}
 			function lII111(i1iI1, lIIIi1) {
-				return [iIIiI['ebBDn'](i1iI1[0x0], lIIIi1[0x0]), i1iI1[0x1] ^ lIIIi1[0x1]];
+				return [(i1iI1[0] ^ lIIIi1[0]), i1iI1[1] ^ lIIIi1[1]];
 			}
 			function I1liI(I1lii) {
-				const iI1I11 = iiIil;
-				if (li1II1[iI1I11(0x135, 'M4*%')]('HGmkc', li1II1['tbNiI'])) I1iIi1 = lliil1['parse'](IIllI);
-				else return I1lii = li1II1[iI1I11(0x24e, 'kOhl')](lII111, I1lii, [0x0, li1II1[iI1I11(0x413, 'XvTn')](I1lii[0x0], 0x1)]),
-				I1lii = li1II1['QtjAy'](lII111, I1lii = ililii(I1lii, [0xff51afd7, 0xed558ccd]), [0x0, li1II1[iI1I11(0x14f, 'M4*%')](I1lii[0x0], 0x1)]),
-				lII111(I1lii = ililii(I1lii, [0xc4ceb9fe, 0x1a85ec53]), [0x0, I1lii[0x0] >>> 0x1]);
+				const I1i1iI = I1i1iI;
+				I1lii = lII111(I1lii, [0, (I1lii[0] >>> 1)]);
+				I1lii = ililii(I1lii, [4283543511, 3981806797]);
+				I1lii = lII111(I1lii, [0, (I1lii[0] >>> 1)]);
+				I1lii = ililii(I1lii, [3301882366, 444984403]);
+				return lII111(I1lii, [0, I1lii[0] >>> 1]);
 			}
 			return {
-				'hash128': function(I1lil, IiIlii) {
-					const l11111 = iiIil;
-					if (li1II1[l11111(0x3da, '46J&')](li1II1['bHrQA'], li1II1[l11111(0x3fa, '8m#a')])) {
-						var ll1iII = iIIiI[l11111(0x31b, '1Lq^')](I1I11i),
-						lli11l = iIIiI[l11111(0x390, '1zB4')](0x1 << l1iI1l, 0x1);
-						for (var I1ll1 = 0x0; iIIiI[l11111(0x106, '46J&')](I1ll1, III1ll['length'] * l1lIIi); I1ll1 += iII11I) {
-							ll1iII[iIIiI['lYAfk'](I1ll1, 0x5)] |= iIIiI[l11111(0x383, '*0Nu')](i1lIl[l11111(0x449, 'xD3t')](I1ll1 / i1lIi) & lli11l, 0x18 - iIIiI[l11111(0x3c6, '!9q8')](I1ll1, 0x20));
+				'hash128': function(a, b) {
+					const I1i1iI = I1i1iI;
+						for (var liIi1i, IlIIII, lii1iI = (b || 0), lll1Il = (b = (a = (a || '')).length % 16, a.length - b), lI1l1 = [0, lii1iI], lii1iI = [0, lii1iI], lll1Ii = [2277735313, 289559509], iilI1 = [1291169091, 658871167], lli11i = 0; (lli11i < lll1Il); lli11i += 16) 
+						
+						liIi1i = [
+							(255 & a.charCodeAt(lli11i + 4) | (255 & a.charCodeAt(lli11i + 5)) << 8) | (255 & a.charCodeAt(lli11i + 6) << 16) |(255 & a.charCodeAt(lli11i + 7) << 24), 
+							(255 & a.charCodeAt(lli11i) | (255 & a.charCodeAt(lli11i + 1)) << 8 | (255 & a.charCodeAt(lli11i + 2)) << 16 | (255 & a.charCodeAt(lli11i + 3)) << 24)];
+
+						IlIIII = [
+							(255 & a.charCodeAt(lli11i + 12) | (255 & a.charCodeAt(lli11i + 13)) << 8)| (255 & a.charCodeAt((lli11i + 14)) << 16)| (255 & a.charCodeAt(lli11i + 15) << 24), 
+							(255 & a.charCodeAt(lli11i+ 8) | (255 & a,charCodeAt(lli11i+ 9) << 8) | (255 & a.charCodeAt(lli11i+ 10) << 16) | (255 & a.charCodeAt(lli11i + 11)) << 24)];
+						liIi1i = ililii(liIi1i, lll1Ii)
+
+						liIi1i = il1il1(liIi1i, 31),
+						lI1l1 = ill1li(lI1l1 = il1il1(lI1l1 = lII111(lI1l1, liIi1i =ililii(liIi1i, iilI1)), 27), lii1iI),
+						lI1l1 = ill1li(ililii(lI1l1, [0, 5]), [0, 1390208809]),
+						IlIIII = il1il1(IlIIII = ililii(IlIIII, iilI1), 33),
+						lii1iI = ill1li(lii1iI = il1il1(lii1iI = lII111(lii1iI, IlIIII = ililii(IlIIII, lll1Ii)), 31), lI1l1),
+						lii1iI = ill1li(ililii(lii1iI, [0, 5]), [0, 944331445]);
+
+
+
+						switch (liIi1i = [0, 0], IlIIII = [0, 0], b) {
+						case 15:
+							IlIIII = lII111(IlIIII, iilIl([0, a.charCodeAt(lli11i + 14)], 48));
+						case 14:
+							IlIIII = lII111(IlIIII, iilIl([0, a.charCodeAt(lli11i + 13)], 40));
+						case 13:
+							IlIIII = lII111(IlIIII, iilIl([0, a.charCodeAt(lli11i + 12)], 32));
+						case 12:
+							IlIIII = lII111(IlIIII, iilIl([0, a.charCodeAt(lli11i + 11)], 24));
+						case 11:
+							IlIIII = lII111(IlIIII, iilIl([0, a.charCodeAt(lli11i + 10)], 16));
+						case 10:
+							IlIIII = lII111(IlIIII, iilIl([0, a.charCodeAt(lli11i + 9)], 8));
+						case 9:
+							IlIIII = ililii(IlIIII = lII111(IlIIII, [0, a.charCodeAt(lli11i + 8)]), iilI1),
+							lii1iI = lII111(lii1iI, IlIIII = ililii( IlIIII = il1il1(IlIIII, 33), lll1Ii));
+						case 8:
+							liIi1i = lII111(liIi1i, iilIl([0, a.charCodeAt(lli11i + 7)], 56));
+						case 7:
+							liIi1i = lII111(liIi1i, iilIl([0, a.charCodeAt(lli11i + 6)], 48));
+						case 6:
+							liIi1i = lII111(liIi1i, iilIl([0, a.charCodeAt(lli11i + 5)], 40));
+						case 5:
+							liIi1i = lII111(liIi1i, iilIl([0, a.charCodeAt(lli11i + 4)], 32));
+						case 4:
+							liIi1i = lII111(liIi1i, iilIl([0, a.charCodeAt(lli11i + 3)], 24));
+						case 3:
+							liIi1i = lII111(liIi1i, iilIl([0, a.charCodeAt(lli11i + 2)], 16));
+						case 2:
+							liIi1i = lII111(liIi1i, iilIl([0, a.charCodeAt(lli11i + 1)], 8));
+						case 1:
+							liIi1i = ililii(liIi1i = lII111(liIi1i, [0, a.charCodeAt(lli11i)]), lll1Ii),
+							lI1l1 = lII111(lI1l1, liIi1i = ililii(liIi1i = il1il1(liIi1i, 31), iilI1));
 						}
-						return ll1iII;
-					} else {
-						for (var liIi1i, IlIIII, lii1iI = li1II1[l11111(0xcf, 'eKqD')](IiIlii, 0x0), lll1Il = (IiIlii = (I1lil = li1II1[l11111(0x37f, 'Rwqa')](I1lil, ''))[l11111(0x340, 'XvTn')] % 0x10, I1lil[l11111(0x1b2, 'wfkb')] - IiIlii), lI1l1 = [0x0, lii1iI], lii1iI = [0x0, lii1iI], lll1Ii = [0x87c37b91, 0x114253d5], iilI1 = [0x4cf5ad43, 0x2745937f], lli11i = 0x0; li1II1[l11111(0x162, 'eKqD')](lli11i, lll1Il); lli11i += 0x10) liIi1i = [li1II1[l11111(0x3d6, 'wfkb')](li1II1['iNRQH'](li1II1[l11111(0x3c8, 'Rwqa')](li1II1[l11111(0x1fc, 'wfkb')](0xff, I1lil[l11111(0x1da, 'gP5M')](li1II1[l11111(0x1e4, '$meb')](lli11i, 0x4))), li1II1[l11111(0x30e, '&Fr&')](0xff, I1lil[l11111(0x418, 'M4*%')](li1II1[l11111(0x2d8, 'kOhl')](lli11i, 0x5))) << 0x8), li1II1[l11111(0x15f, ')TpP')](0xff & I1lil['charCodeAt'](li1II1[l11111(0x442, 'rgzG')](lli11i, 0x6)), 0x10)), li1II1[l11111(0x176, 'SPmY')](li1II1['gKgeU'](0xff, I1lil[l11111(0x320, 'NtzQ')](li1II1[l11111(0x301, '1zB4')](lli11i, 0x7))), 0x18)), li1II1[l11111(0x1ec, 'jvKw')](li1II1['iNRQH'](li1II1['OAUtM'](0xff, I1lil['charCodeAt'](lli11i)), li1II1[l11111(0x174, 'iow6')](li1II1[l11111(0x2c4, 'f9dA')](0xff, I1lil['charCodeAt'](li1II1[l11111(0x10a, '&Fr&')](lli11i, 0x1))), 0x8)) | li1II1[l11111(0x2fc, 'v)[c')](li1II1['UVUTF'](0xff, I1lil[l11111(0x1c5, 'o$yZ')](li1II1[l11111(0x3fe, ')Lq4')](lli11i, 0x2))), 0x10), li1II1['srEYS'](li1II1[l11111(0x321, '1zB4')](0xff, I1lil[l11111(0xee, 'sa@g')](li1II1[l11111(0x2d8, 'kOhl')](lli11i, 0x3))), 0x18))],
-						IlIIII = [li1II1[l11111(0x476, ')TpP')](li1II1[l11111(0x187, '4$Ke')](li1II1[l11111(0x368, 'M5IT')](li1II1[l11111(0x45b, 'FiKh')](0xff, I1lil['charCodeAt'](lli11i + 0xc)), li1II1[l11111(0x2f5, 'TJOK')](li1II1[l11111(0x3c4, 'jvKw')](0xff, I1lil[l11111(0xee, 'sa@g')](lli11i + 0xd)), 0x8)), li1II1[l11111(0x358, '39VD')](li1II1['ngeVX'](0xff, I1lil[l11111(0x127, 'Rwqa')](li1II1[l11111(0x218, '1zB4')](lli11i, 0xe))), 0x10)), li1II1[l11111(0x2cc, 'xD3t')](li1II1['hpFQR'](0xff, I1lil[l11111(0x195, '&!Er')](li1II1[l11111(0x385, 'rgzG')](lli11i, 0xf))), 0x18)), li1II1[l11111(0x17b, 'Rwqa')](li1II1[l11111(0x47c, 'iow6')](li1II1['RZpsO'](0xff, I1lil['charCodeAt'](li1II1['lZIqZ'](lli11i, 0x8))), li1II1[l11111(0x327, '4$Ke')](0xff & I1lil[l11111(0x2c1, '2jMS')](li1II1[l11111(0x11a, 'jvKw')](lli11i, 0x9)), 0x8)) | li1II1['SSBOy'](0xff & I1lil['charCodeAt'](li1II1[l11111(0x34c, 'UjBD')](lli11i, 0xa)), 0x10), li1II1[l11111(0x329, 'aLRY')](li1II1[l11111(0x23f, '@ttb')](0xff, I1lil[l11111(0x418, 'M4*%')](li1II1[l11111(0x144, 'PYui')](lli11i, 0xb))), 0x18))],
-						liIi1i = li1II1['QtjAy'](il1il1, liIi1i = ililii(liIi1i, lll1Ii), 0x1f),
-						lI1l1 = li1II1[l11111(0x110, ']9@]')](ill1li, lI1l1 = li1II1[l11111(0x430, 'rHf2')](il1il1, lI1l1 = li1II1[l11111(0x305, 'rgzG')](lII111, lI1l1, liIi1i = li1II1[l11111(0x158, 'sa@g')](ililii, liIi1i, iilI1)), 0x1b), lii1iI),
-						lI1l1 = li1II1[l11111(0x1d8, 'aLRY')](ill1li, li1II1[l11111(0x333, '&Fr&')](ililii, lI1l1, [0x0, 0x5]), [0x0, 0x52dce729]),
-						IlIIII = li1II1[l11111(0x46f, 'M4*%')](il1il1, IlIIII = ililii(IlIIII, iilI1), 0x21),
-						lii1iI = li1II1[l11111(0x397, 'UjBD')](ill1li, lii1iI = li1II1[l11111(0x200, 'TJOK')](il1il1, lii1iI = lII111(lii1iI, IlIIII = li1II1[l11111(0x160, '!#4L')](ililii, IlIIII, lll1Ii)), 0x1f), lI1l1),
-						lii1iI = li1II1['KVPMO'](ill1li, li1II1[l11111(0x400, '&Fr&')](ililii, lii1iI, [0x0, 0x5]), [0x0, 0x38495ab5]);
-						switch (liIi1i = [0x0, 0x0], IlIIII = [0x0, 0x0], IiIlii) {
-						case 0xf:
-							IlIIII = li1II1['NwWxa'](lII111, IlIIII, iilIl([0x0, I1lil[l11111(0x456, 'TJOK')](li1II1['BOZCu'](lli11i, 0xe))], 0x30));
-						case 0xe:
-							IlIIII = lII111(IlIIII, iilIl([0x0, I1lil['charCodeAt'](lli11i + 0xd)], 0x28));
-						case 0xd:
-							IlIIII = li1II1[l11111(0x18e, ')TpP')](lII111, IlIIII, li1II1['JFiAh'](iilIl, [0x0, I1lil[l11111(0xf4, 'aLRY')](lli11i + 0xc)], 0x20));
-						case 0xc:
-							IlIIII = li1II1['kNpTu'](lII111, IlIIII, iilIl([0x0, I1lil[l11111(0x138, ')TpP')](li1II1[l11111(0x442, 'rgzG')](lli11i, 0xb))], 0x18));
-						case 0xb:
-							IlIIII = lII111(IlIIII, li1II1[l11111(0x330, 'FiKh')](iilIl, [0x0, I1lil[l11111(0x317, 'FiKh')](li1II1[l11111(0x260, '!#4L')](lli11i, 0xa))], 0x10));
-						case 0xa:
-							IlIIII = lII111(IlIIII, li1II1[l11111(0x24e, 'kOhl')](iilIl, [0x0, I1lil['charCodeAt'](lli11i + 0x9)], 0x8));
-						case 0x9:
-							IlIIII = ililii(IlIIII = li1II1[l11111(0x234, 'eKqD')](lII111, IlIIII, [0x0, I1lil[l11111(0x36d, '46J&')](li1II1['lZIqZ'](lli11i, 0x8))]), iilI1),
-							lii1iI = li1II1['JFiAh'](lII111, lii1iI, IlIIII = li1II1[l11111(0x3c0, '39VD')](ililii, IlIIII = il1il1(IlIIII, 0x21), lll1Ii));
-						case 0x8:
-							liIi1i = lII111(liIi1i, li1II1[l11111(0x373, 'gWJq')](iilIl, [0x0, I1lil[l11111(0x2c1, '2jMS')](li1II1[l11111(0x27a, 'aLRY')](lli11i, 0x7))], 0x38));
-						case 0x7:
-							liIi1i = li1II1[l11111(0x361, 'rHf2')](lII111, liIi1i, li1II1[l11111(0x1ea, '6L[A')](iilIl, [0x0, I1lil['charCodeAt'](li1II1['TgteO'](lli11i, 0x6))], 0x30));
-						case 0x6:
-							liIi1i = li1II1['hvabT'](lII111, liIi1i, iilIl([0x0, I1lil['charCodeAt'](li1II1[l11111(0x197, 'v)[c')](lli11i, 0x5))], 0x28));
-						case 0x5:
-							liIi1i = li1II1[l11111(0xc6, '5xt%')](lII111, liIi1i, iilIl([0x0, I1lil['charCodeAt'](li1II1[l11111(0x436, 'eJjH')](lli11i, 0x4))], 0x20));
-						case 0x4:
-							liIi1i = li1II1[l11111(0x267, ')Lq4')](lII111, liIi1i, li1II1[l11111(0x232, '!#4L')](iilIl, [0x0, I1lil['charCodeAt'](li1II1[l11111(0x1cb, 'ZkV3')](lli11i, 0x3))], 0x18));
-						case 0x3:
-							liIi1i = li1II1[l11111(0x35b, 'FiKh')](lII111, liIi1i, li1II1[l11111(0x2cd, ']9@]')](iilIl, [0x0, I1lil[l11111(0x3ca, 'wfkb')](li1II1[l11111(0x270, '!9q8')](lli11i, 0x2))], 0x10));
-						case 0x2:
-							liIi1i = li1II1[l11111(0x485, 'M4*%')](lII111, liIi1i, iilIl([0x0, I1lil['charCodeAt'](li1II1['mjAsT'](lli11i, 0x1))], 0x8));
-						case 0x1:
-							liIi1i = li1II1['kNpTu'](ililii, liIi1i = lII111(liIi1i, [0x0, I1lil[l11111(0x1bd, 'PYui')](lli11i)]), lll1Ii),
-							lI1l1 = li1II1[l11111(0x30c, 'gWJq')](lII111, lI1l1, liIi1i = li1II1['cFNVR'](ililii, liIi1i = li1II1[l11111(0x3b2, 'FiKh')](il1il1, liIi1i, 0x1f), iilI1));
-						}
-						return lI1l1 = li1II1[l11111(0xe5, 'UjBD')](ill1li, lI1l1 = li1II1[l11111(0x27c, 'vMlH')](lII111, lI1l1, [0x0, I1lil[l11111(0x391, 'rgzG')]]), lii1iI = li1II1[l11111(0xf7, ')TpP')](lII111, lii1iI, [0x0, I1lil['length']])),
-						lii1iI = li1II1['XZsOr'](ill1li, lii1iI, lI1l1),
-						lI1l1 = ill1li(lI1l1 = li1II1[l11111(0x463, 'vMlH')](I1liI, lI1l1), lii1iI = li1II1[l11111(0x22d, '2jMS')](I1liI, lii1iI)),
-						lii1iI = ill1li(lii1iI, lI1l1),
-						li1II1[l11111(0x289, 'gWJq')](li1II1[l11111(0x374, 'rHf2')](li1II1['aWIVn']('00000000', li1II1[l11111(0x346, '46J&')](lI1l1[0x0], 0x0)[l11111(0x124, '6L[A')](0x10))[l11111(0x280, 'ZkV3')]( - 0x8) + li1II1[l11111(0x31d, 'iow6')](li1II1[l11111(0xc8, 'o$yZ')], li1II1[l11111(0x16b, 'TJOK')](lI1l1[0x1], 0x0)[l11111(0x359, 'f9dA')](0x10))[l11111(0x28e, '!#4L')]( - 0x8), li1II1['uSztN'](li1II1[l11111(0x36a, '$meb')], li1II1['tlBbM'](lii1iI[0x0], 0x0)[l11111(0x2db, '1Lq^')](0x10))[l11111(0x14e, 'kOhl')]( - 0x8)), li1II1[l11111(0x369, ')TpP')](li1II1[l11111(0x36e, 'aLRY')], li1II1[l11111(0x448, 'iow6')](lii1iI[0x1], 0x0)[l11111(0x13c, 'v)[c')](0x10))[l11111(0x41b, 'Nm)H')]( - 0x8));
-					}
+
+						lI1l1 = lII111(lI1l1, [0, a.length]);
+						lii1iI = lII111(lii1iI, [0, a.length]);
+						lI1l1 = ill1li(lI1l1, lii1iI);
+						lii1iI = ill1li(lii1iI, lI1l1);
+						lI1l1 = I1liI(lI1l1);
+						lii1iI = I1liI( lii1iI);
+						lI1l1 = ill1li(lI1l1, lii1iI);
+						lii1iI = ill1li(lii1iI, lI1l1);
+
+						return 
+						('00000000' + (lI1l1[0] >>> 0).toString(16)).slice( -8) + 
+						('00000000' + (lI1l1[1] >>> 0).toString(16)).slice( -8) +
+						('00000000' + (lii1iI[0] >>> 0).toString(16)).slice(-8) +
+						('00000000' + (lii1iI[1] >>> 0).toString(16)).slice(-8);
 				}
 			};
-		}
 	}
 	try {
-		if (li1II1['ENuVo'] === ii1Ill(0x318, '2jMS')) {
-			let i1iII = Iil1I1[ii1Ill(0xca, 'gWJq')](Ii1iII),
-			IiIliI = li1II1['FXxhg'](i1iII, 0xa),
-			IlIl11 = l1i11I[IiIliI][II11II];
-			Ii1iI1 += IlIl11;
-		} else {
-			const lI1lI = li1II1[ii1Ill(0x24f, 'UjBD')](I1I1I)['hash128']([I11111['substring'](0x0, 0x5a), li1II1[ii1Ill(0x40d, '1Lq^')], ii1Ill(0x272, '!#4L'), li1II1[ii1Ill(0x3a1, 'f9dA')], 'NA', 'NA', 0x20, ii1Ill(0x213, 'iow6'), -0x1e0, li1II1['avydX'], ii1Ill(0x181, 'eKqD'), li1II1[ii1Ill(0x24a, 'NtzQ')], ii1Ill(0x484, 'UjBD'), 'NA', li1II1['NZSds'], 0xa, 'NA', '', null, null]['join'](li1II1[ii1Ill(0x25e, ']9@]')]), 0x1f);
+		const lI1lI = I1I1I().hash128([I11111.substring(0, 90), 'zh-CN', 'applewebkit_chrome', '605.1.15', 'NA', 'NA', 32, '896x414', -480, 'sessionStorageKey', 'localStorageKey',
+		 'indexedDbKey', 'openDatabase', 'NA', 'iPhone', 10, 'NA', '', null, null].join('~~~'), 31);
 			iiIllI['fp'] = lI1lI;
 			const il1Il = iII1l1(Object['assign']({},
 			{
 				'pin': '',
 				'oid': '',
-				'bizId': li1II1['ZQgFY'],
+				'bizId': 'jd-babelh5',
 				'fc': '',
-				'mode': li1II1['SNhuC'],
-				'p': /^https:/ [ii1Ill(0x1f0, 'f9dA')](l111) ? 's': 'h',
+				'mode': 'strict',
+				'p': /^https:/ .test(l111) ? 's': 'h',
 				'fp': lI1lI,
-				'ctype': 0x1,
-				'v': ii1Ill(0x420, '$meb'),
+				'ctype': 1,
+				'v': '3.2.1.1',
 				'f': '3',
-				'o': l111[ii1Ill(0x214, '4jt0')](/^https?:\/\//, ''),
+				'o': l111.replace(/^https?:\/\//, ''),
 				'qs': '',
 				'jsTk': '',
 				'qi': '',
 				'stk': ''
 			},
 			il11lI)),
-			lll1II = li1II1[ii1Ill(0x308, '&Fr&')](iII1l1, Object[ii1Ill(0x1b9, 'xD3t')]({},
+			lll1II = iII1l1(Object.assign({},
 			{
 				'ts': {
-					'deviceTime': Date[ii1Ill(0x2aa, '5xt%')](),
-					'deviceEndTime': li1II1['ZppkA'](Date[ii1Ill(0x208, 'aLRY')](), 0x14)
+					'deviceTime': Date.now(),
+					'deviceEndTime': Date.now() + 20
 				},
 				'ca': {
 					'tdHash': ''
 				},
 				'm': {
-					'compatMode': li1II1['KnmpQ']
+					'compatMode': 'CSS1Compat'
 				},
-				'fo': ['Bauhaus\x2093', li1II1[ii1Ill(0x1b3, 'ZkV3')], ii1Ill(0x204, '1zB4'), ii1Ill(0x265, 'ZkV3'), 'Papyrus', li1II1[ii1Ill(0x462, '5xt%')]],
+				'fo': ['Bauhaus 93', 'Chalkduster', 'Impact', 'Menlo', 'Papyrus', 'Rockwell'],
 				'n': {
-					'standalone': ![],
-					'hardwareConcurrency': 0x4,
-					'webdriver': ![],
-					'maxTouchPoints': 0x5,
-					'cookieEnabled': !![],
+					'standalone': false,
+					'hardwareConcurrency': 4,
+					'webdriver': false,
+					'maxTouchPoints': 5,
+					'cookieEnabled': true,
 					'appCodeName': 'Mozilla',
 					'appName': li1II1['eGRRG'],
-					'appVersion': /\/(.+)/g[ii1Ill(0x3d8, 'ZkV3')](I11111) && /\/(.+)/g[ii1Ill(0xd8, '&Fr&')](I11111)[0x1] || I11111,
-					'platform': li1II1[ii1Ill(0x215, 'PYui')],
-					'product': li1II1[ii1Ill(0x39b, 'FiKh')],
-					'productSub': li1II1[ii1Ill(0x46b, 'wfkb')],
+					'appVersion': /\/(.+)/g.exec(I11111) && /\/(.+)/g.exec(I11111)[1] || I11111,
+					'platform': 'iPhone',
+					'product': 'Gecko',
+					'productSub': '20030107',
 					'userAgent': I11111,
-					'vendor': li1II1[ii1Ill(0x1a3, 'M5IT')],
+					'vendor': 'Apple Computer, Inc.',
 					'vendorSub': '',
-					'language': li1II1[ii1Ill(0x290, '&!Er')],
-					'onLine': !![],
-					'pdfViewerEnabled': !![],
-					'javaEnabled': ![],
-					'enumerationOrder': [ii1Ill(0x348, '!#4L'), li1II1['GYGyv'], li1II1[ii1Ill(0x1e2, '@ttb')], li1II1[ii1Ill(0x264, ')TpP')], li1II1[ii1Ill(0x113, 'rgzG')], ii1Ill(0x19b, ']M$5'), li1II1['KvkSg'], li1II1[ii1Ill(0x278, '1zB4')], ii1Ill(0x32a, '$meb'), ii1Ill(0x17d, 'XvTn'), li1II1['jjaEM'], 'wakeLock', li1II1[ii1Ill(0x33f, '4jt0')], ii1Ill(0x396, 'NtzQ'), li1II1[ii1Ill(0x399, 'SPmY')], li1II1[ii1Ill(0x3c7, 'v)[c')], 'cookieEnabled', li1II1[ii1Ill(0x355, 'M4*%')], li1II1[ii1Ill(0x1f6, '@ttb')], li1II1[ii1Ill(0x105, 'xD3t')], ii1Ill(0x2b1, 'M5IT'), li1II1['YWImv'], ii1Ill(0xc2, '@ttb'), li1II1[ii1Ill(0x2bd, 'PYui')], li1II1[ii1Ill(0x3f7, '8m#a')], li1II1[ii1Ill(0x2e5, 'eKqD')], ii1Ill(0x1be, 'NtzQ'), li1II1[ii1Ill(0x2fe, 'M5IT')], 'onLine', li1II1['asgZW'], ii1Ill(0x32b, 'M5IT'), li1II1[ii1Ill(0x189, 'f9dA')], li1II1[ii1Ill(0x155, 'v)[c')], li1II1['Haypb'], ii1Ill(0x2a6, '4$Ke'), 'javaEnabled', li1II1[ii1Ill(0x354, '1Lq^')], li1II1[ii1Ill(0x262, 'iow6')]]
+					'language': 'zh-CN',
+					'onLine': true,
+					'pdfViewerEnabled': true,
+					'javaEnabled': false,
+					'enumerationOrder': ["sendBeacon","standalone","hardwareConcurrency","clipboard","audioSession","credentials","geolocation","mediaCapabilities","mediaSession","mediaDevices","permissions","wakeLock","locks","webdriver","maxTouchPoints","userActivation","cookieEnabled","appCodeName","appName","appVersion","platform","product","productSub","userAgent","vendor","vendorSub","language","languages","onLine","plugins","mimeTypes","pdfViewerEnabled","storage","requestMediaKeySystemAccess","getGamepads","javaEnabled","canShare","share"]
 				},
 				'p': [],
 				'w': {
-					'devicePixelRatio': 0x1,
-					'screenTop': 0x0,
-					'screenLeft': 0x0
+					'devicePixelRatio': 1,
+					'screenTop': 0,
+					'screenLeft': 0
 				},
 				's': {
-					'availHeight': 0x34c,
-					'availWidth': 0x186,
-					'colorDepth': 0x18,
-					'height': 0x34c,
-					'width': 0x186,
-					'pixelDepth': 0x18
+					'availHeight': 844,
+					'availWidth': 390,
+					'colorDepth': 24,
+					'height': 844,
+					'width': 390,
+					'pixelDepth': 24
 				},
 				'sc': {
-					'ActiveBorder': li1II1[ii1Ill(0x1f7, '*0Nu')],
-					'ActiveCaption': li1II1[ii1Ill(0x268, ']M$5')],
-					'AppWorkspace': li1II1[ii1Ill(0x3d9, 'rHf2')],
-					'Background': li1II1['zoTfP'],
-					'ButtonFace': li1II1['ywLhl'],
-					'ButtonHighlight': li1II1[ii1Ill(0x2f8, 'rHf2')],
-					'ButtonShadow': li1II1['ywLhl'],
-					'ButtonText': li1II1[ii1Ill(0xc7, 'kOhl')],
-					'CaptionText': li1II1[ii1Ill(0x1d4, 'Nm)H')],
-					'GrayText': 'rgb(128,\x20128,\x20128)',
-					'Highlight': 'rgba(51,\x20181,\x20229,\x200.4)',
-					'HighlightText': li1II1[ii1Ill(0x480, 'Rwqa')],
-					'InactiveBorder': li1II1['JwjpJ'],
-					'InactiveCaption': li1II1['zoTfP'],
-					'InactiveCaptionText': li1II1[ii1Ill(0x1a4, 'M4*%')],
-					'InfoBackground': 'rgb(255,\x20255,\x20255)',
-					'InfoText': li1II1['KkIoO'],
-					'Menu': li1II1[ii1Ill(0x233, 'XvTn')],
-					'MenuText': ii1Ill(0x1d2, '5xt%'),
-					'Scrollbar': li1II1['zoTfP'],
-					'ThreeDDarkShadow': li1II1[ii1Ill(0x457, '4jt0')],
-					'ThreeDFace': li1II1[ii1Ill(0x128, 'sa@g')],
-					'ThreeDHighlight': li1II1['JwjpJ'],
-					'ThreeDLightShadow': li1II1[ii1Ill(0x159, 'vMlH')],
-					'ThreeDShadow': li1II1[ii1Ill(0x159, 'vMlH')],
-					'Window': li1II1[ii1Ill(0x419, '5xt%')],
-					'WindowFrame': li1II1['JwjpJ'],
-					'WindowText': li1II1[ii1Ill(0x1ba, '@ttb')]
+					'ActiveBorder': 'rgb(118, 118, 118)',
+					'ActiveCaption': 'rgb(0, 0, 0)',
+					'AppWorkspace': 'rgb(255, 255, 255)',
+					'Background': 'rgb(255, 255, 255)',
+					'ButtonFace': 'rgb(239, 239, 239)',
+					'ButtonHighlight': 'rgb(239, 239, 239)',
+					'ButtonShadow': 'rgb(239, 239, 239)',
+					'ButtonText': 'rgb(0, 0, 0)',
+					'CaptionText': 'rgb(0, 0, 0)',
+					'GrayText': 'rgb(128, 128, 128)',
+					'Highlight': 'rgba(51, 181, 229, 0.4)',
+					'HighlightText': 'rgb(255, 255, 255)',
+					'InactiveBorder': 'rgb(118, 118, 118)',
+					'InactiveCaption': 'rgb(255, 255, 255)',
+					'InactiveCaptionText': 'rgb(128, 128, 128)',
+					'InfoBackground': 'rgb(255,255,255)',
+					'InfoText': 'rgb(0, 0, 0)',
+					'Menu': 'rgb(255, 255, 255)',
+					'MenuText': 'rgb(0, 0, 0)',
+					'Scrollbar': 'rgb(255, 255, 255)',
+					'ThreeDDarkShadow': 'rgb(118, 118, 118)',
+					'ThreeDFace': 'rgb(239, 239, 239)',
+					'ThreeDHighlight': 'rgb(118, 118, 118)',
+					'ThreeDLightShadow': 'rgb(118, 118, 118)',
+					'ThreeDShadow': 'rgb(118, 118, 118)',
+					'Window': 'rgb(255, 255, 255)',
+					'WindowFrame': 'rgb(118, 118, 118)',
+					'WindowText': 'rgb(0, 0, 0)'
 				},
 				'ss': {
-					'cookie': !![],
-					'localStorage': !![],
-					'sessionStorage': !![],
-					'globalStorage': ![],
-					'indexedDB': !![]
+					'cookie': true,
+					'localStorage': true,
+					'sessionStorage': true,
+					'globalStorage': false,
+					'indexedDB': true
 				},
 				'tz': -0x1e0,
 				'lil': '',
@@ -1805,20 +1814,20 @@ lIll1I = {}) {
 			},
 			lIll1I)),
 			il1I11 = {
-				'url': ii1Ill(0x111, ']9@]'),
-				'method': ii1Ill(0x2ce, 'FiKh'),
+				'url': 'https://gia.jd.com/jsTk.do',
+				'method': 'POST',
 				'headers': {
-					'Accept': ii1Ill(0x178, 'aLRY'),
-					'Accept-Encoding': li1II1['MSgbu'],
-					'Accept-Language': li1II1['LJNOg'],
-					'Content-Type': li1II1[ii1Ill(0x288, '8m#a')],
-					'Connection': li1II1['qErCp'],
-					'Host': ii1Ill(0x2fa, 'ZkV3'),
-					'Origin': common[ii1Ill(0xf9, ']9@]')](l111) ?.[ii1Ill(0x2dd, 'o$yZ')] || li1II1[ii1Ill(0x29a, 'gWJq')],
+					'Accept': '*/*',
+					'Accept-Encoding': 'gzip, deflate, br',
+					'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,en-GB;q=0.6',
+					'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
+					'Connection': 'keep-alive',
+					'Host': 'gia.jd.com',
+					'Origin': common.parseUrl(l111) ?.origin || 'https://pro.m.jd.com',
 					'Referer': l111,
-					'Sec-Fetch-Dest': li1II1[ii1Ill(0x168, 'Rwqa')],
-					'Sec-Fetch-Mode': ii1Ill(0x384, '6L[A'),
-					'Sec-Fetch-Site': li1II1[ii1Ill(0x241, 'iow6')],
+					'Sec-Fetch-Dest': 'empty',
+					'Sec-Fetch-Mode': 'cors',
+					'Sec-Fetch-Site': 'same-site',
 					'User-Agent': I11111
 				},
 				'params': {
@@ -1828,44 +1837,37 @@ lIll1I = {}) {
 					'd': lll1II
 				},
 				'proxy': null,
-				'timeout': 0xea60,
-				'debug': ![]
+				'timeout': 60000,
+				'debug': false
 			};
-			let lli11I = 0x0,
-			ii1lI1 = null;
-			const ii11i = 0x1;
-			while (li1II1[ii1Ill(0x3f8, 'aLRY')](lli11I, ii11i)) {
-				const lIIlIl = await common[ii1Ill(0x33c, '$meb')](il1I11);
-				if (!lIIlIl[ii1Ill(0x302, 'f9dA')]) {
-					ii1lI1 = '❌\x20jsTk\x20请求失败\x20➜\x20' + lIIlIl[ii1Ill(0x119, '1Lq^')],
-					lli11I++;
-					continue;
-				}
-				if (!lIIlIl[ii1Ill(0x19a, '39VD')]) {
-					if (li1II1['IOarc'](ii1Ill(0x474, 'eJjH'), li1II1[ii1Ill(0x406, 'gP5M')])) {
-						ii1lI1 = ii1Ill(0x1c2, 'aLRY'),
-						lli11I++;
-						continue;
-					} else ! IlI1ll[ll11l] && delete l1llli[iI1lII];
-				}
-				try {
-					const ililli = lIIlIl[ii1Ill(0x109, ']9@]')];
-					if (ililli ?. ['data'] ?. [ii1Ill(0x20b, '8m#a')] && ililli ?. ['data'] ?. ['token']) return iiIllI[ii1Ill(0x3b3, ']9@]')] = ililli[ii1Ill(0x281, 'M5IT')][ii1Ill(0x224, 'SPmY')],
-					iiIllI[ii1Ill(0x33b, '1zB4')] = ililli[ii1Ill(0x26a, 'vMlH')][ii1Ill(0x441, '@ttb')],
-					iiIllI;
-					ii1lI1 = ii1Ill(0x335, '1zB4') + JSON[ii1Ill(0x25b, '1zB4')](ililli);
-				} catch(ii11l) {
-					ii1lI1 = ii1Ill(0x2e1, 'xD3t') + (ii11l[ii1Ill(0x296, ']9@]')] || ii11l);
-				}
-				lli11I++;
+
+			let ii1lI1 = null;
+			const res = await common.request(il1I11);
+			if(!res.successs){
+				console.log('❌ jsTk 请求失败 ➜ ' + res.error)
+				return;
 			}
-			if (li1II1[ii1Ill(0x3f9, 'gWJq')](lli11I, ii11i)) {
-				if (li1II1[ii1Ill(0x101, 'iow6')](li1II1[ii1Ill(0x44a, 'o$yZ')], li1II1['APNgA'])) return lIl1lI(iiI1ll, 0x7) ^ li1II1['dzAMa'](lIiliI, iIiill, 0x12) ^ li1II1[ii1Ill(0x2c2, 'FiKh')](Ii1IIi, Ii1IIl, 0x3);
-				else console[ii1Ill(0x131, '!9q8')](ii1lI1);
+			if(!res.data){
+				console.log('🚫 jsTk 请求失败 ➜ 无响应数据')
+				return;
 			}
-		}
-	} catch(ililll) {
-		console[ii1Ill(0xec, '$meb')](ii1Ill(0x1cd, '4$Ke') + (ililll[ii1Ill(0x3e4, 'TJOK')] || ililll));
+
+			try {
+				const ililli = res.data;
+				if (ililli ?. data ?. eid && ililli ?.data ?. token){
+					res.eid = ililli.data.eid;
+					res.jsToken= ililli.data.token;
+					return res;
+				}else{
+					console.log('🚫 jsTk 请求异常 ➜ ' + JSON.stringify(res))
+				}
+				
+			} catch(err) {
+				console.log('❌ jsTk 在处理接口响应时遇到了错误 ➜ ' + (err.message || err) )
+			}
+
+	} catch(e) {
+		console.log('❌ 在处理 jsTk 时遇到了错误 ➜ ' + (e.message || e));
 	}
 	return iiIllI;
 }

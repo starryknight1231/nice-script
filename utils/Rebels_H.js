@@ -74,7 +74,7 @@ class H5st {
 
 		// 创建 JSDOM 实例
 		const jsdomInstance = new JSDOM("<body>\n    " + s + "\n</body>", jsdomOptions);
-
+		
 		// 等待加载完毕
 		do {
 			await this._sleep(100); // 延迟等待
@@ -375,8 +375,13 @@ class H5st {
 		s = Utf8Encode(s);
 		return binb2hex(core_sha256(str2binb(s), s.length * chrsz));
 	}
+
+	async jsTk(){
+		
+	}
 }
 
 module.exports = {
-	'H5st': new H5st()
+	'H5st': new H5st(),
+	'jsTk':jsTk,
 };
